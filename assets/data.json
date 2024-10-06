@@ -1,0 +1,625 @@
+{"unit1" : {
+      "name": "Alternating Current",
+      "data": [
+        {
+          "intitule":
+              "What is the main characteristic of alternating current (AC) ?",
+          "reponse": "It changes direction periodically",
+          "type": "text",
+          "proposition": {
+            "intitule0": "It flows in one direction",
+            "intitule1": "It changes direction periodically",
+            "intitule2": "It moves only in circuits with batteries",
+            "intitule3": "It does not flow through wires",
+            "Vrai": 1
+          },
+          "explanation":
+              "Alternating current (AC) periodically changes direction, which makes it ideal for long-distance transmission and powering homes and industries"
+        },
+        {
+          "intitule":
+              "Why is alternating current used instead of direct current for power grids ?",
+          "reponse": "AC can travel longer distances with fewer energy losses",
+          "type": "text",
+          "proposition": {
+            "intitule0":
+                "AC can travel longer distances with fewer energy losses",
+            "intitule1": "AC is safer than DC",
+            "intitule2": "AC is cheaper to produce",
+            "intitule3": "DC is only for small devices like phones",
+            "Vrai": 0
+          },
+          "explanation":
+              "Alternating current experiences fewer energy losses over long distances, making it more efficient for large-scale power grids"
+        },
+        {
+          "intitule":
+              "How often does alternating current change direction in most homes ?",
+          "reponse": "50-60 times per second",
+          "type": "text",
+          "proposition": {
+            "intitule0": "20 times per second",
+            "intitule1": "100 times per second",
+            "intitule2": "50-60 times per second",
+            "intitule3": "10 times per second"
+          },
+          "Vrai": 2,
+          "explanation":
+              "The frequency of alternating current is typically 50-60 Hz, meaning it changes direction 50 to 60 times per second"
+        },
+        {
+          "intitule": "What is the unit of frequency for alternating current ?",
+          "reponse": "Hertz (Hz)",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Volts (V)",
+            "intitule1": "Watts (W)",
+            "intitule2": "Hertz (Hz)",
+            "intitule3": "Amps (A)",
+            "Vrai": 2
+          },
+          "explanation":
+              "Hertz (Hz) is the unit of frequency, which measures how often the current changes direction"
+        },
+        {
+          "intitule": "In an alternating current (AC) circuit, the voltage is:",
+          "reponse": "Periodically changing",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Constant",
+            "intitule1": "Always increasing",
+            "intitule2": "Always decreasing",
+            "intitule3": "Periodically changing",
+            "Vrai": 3
+          },
+          "explanation":
+              "In AC circuits, the voltage periodically changes in both magnitude and direction"
+        },
+        {
+          "intitule":
+              "What device is used to convert alternating current (AC) to direct current (DC) ?",
+          "reponse": "The rectifier",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://physique-chimie-college.fr/wp-content/uploads/2015/09/symbole-transformateur.png",
+            "intitule1":
+                "https://physique-chimie-college.fr/wp-content/uploads/2015/09/symbole-resistance.png",
+            "intitule2":
+                "https://as2.ftcdn.net/v2/jpg/05/16/73/29/1000_F_516732970_jUgh5JR0QdiU4J6233jV4XnSYtLw3lgs.jpg",
+            "intitule3":
+                "https://www.wiltronics.com.au/wp-content/uploads/capacitor-symbol.jpg",
+            "Vrai": 2
+          },
+          "explanation":
+              "A rectifier is used to convert AC into DC by allowing current to flow in one direction only"
+        },
+        {
+          "intitule":
+              "Which of the following appliances would typically use alternating current ?",
+          "reponse": "The fridge",
+          "type": "image",
+          "proposition": {
+            "intitule0": "https://pngimg.com/d/automotive_battery_PNG12101.png",
+            "intitule1":
+                "https://image.shutterstock.com/image-photo/open-empty-fridge-on-gray-260nw-2471054975.jpg",
+            "intitule2":
+                "https://image.shutterstock.com/image-photo/cell-phone-blank-white-screen-260nw-2470928595.jpg",
+            "intitule3":
+                "https://image.shutterstock.com/image-photo/modern-metal-led-flashlight-black-260nw-2465921619.jpg",
+            "Vrai": 1
+          },
+          "explanation":
+              "Large appliances like refrigerators use alternating current (AC), which is supplied by the power grid"
+        },
+        {
+          "intitule":
+              "What is the standard household voltage for alternating current in most countries ?",
+          "reponse": "110-240V",
+          "type": "text",
+          "proposition": {
+            "intitule0": "50V",
+            "intitule1": "110-240V",
+            "intitule2": "5V",
+            "intitule3": "12V",
+            "Vrai": 1
+          },
+          "explanation":
+              "Most household electrical systems use 110-240 volts of alternating current, depending on the country"
+        },
+        {
+          "intitule":
+              "Which of the following is a key benefit of alternating current ?",
+          "reponse": "Easier to transform into higher or lower voltages",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Easier to store in batteries",
+            "intitule1": "Easier to transform into higher or lower voltages",
+            "intitule2": "Cannot be used with high-voltage power lines",
+            "intitule3": "More energy-efficient for small devices",
+            "Vrai": 1
+          },
+          "explanation":
+              "AC can be easily transformed using transformers, which makes it ideal for transmitting power over long distances"
+        },
+        {
+          "intitule":
+              "What is one of the disadvantages of direct current compared to alternating current ?",
+          "reponse": "DC has more energy losses over long distances",
+          "type": "text",
+          "proposition": {
+            "intitule0": "DC is more dangerous",
+            "intitule1": "DC has more energy losses over long distances",
+            "intitule2": "DC is easier to produce",
+            "intitule3": "DC requires higher voltages",
+            "Vrai": 1
+          },
+          "explanation":
+              "Direct current suffers from more energy losses when transmitted over long distances, which is why alternating current is preferred for power grids"
+        }
+      ]
+    },
+    "unit2" : {
+      "name": "Energy Production Methods",
+      "data": [
+        {
+          "intitule": "What is the main energy source for solar panels ?",
+          "reponse": "The sun",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://image.shutterstock.com/image-photo/energy-transition-wind-power-farm-260nw-2468318865.jpg",
+            "intitule1":
+                "https://cdn.hswstatic.com/gif/gettyimages-1406174121.jpg",
+            "intitule2":
+                "https://www.chargerwater.com/wp-content/uploads/2018/05/clean-water-1080x675.jpg",
+            "intitule3":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxJ8iZRoJjQ9a6Tm8sTB68zWsduhg31EEqg&s",
+            "Vrai": 1
+          },
+          "explanation":
+              "Solar panels convert sunlight into electricity, making the sun the primary energy source for solar power"
+        },
+        {
+          "intitule":
+              "Which of the following is a non-renewable energy source ?",
+          "reponse": "Coal",
+          "type": "image",
+          "proposition": {
+            "intitule0": "https://ychef.files.bbci.co.uk/1280x720/p0h8c1rz.jpg",
+            "intitule1":
+                "https://image.shutterstock.com/image-photo/energy-transition-wind-power-farm-260nw-2468318865.jpg",
+            "intitule2":
+                "https://cdn.hswstatic.com/gif/gettyimages-1406174121.jpg",
+            "intitule3":
+                "https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2022/04/Untitled-design-2022-04-11T122006.758.jpg",
+            "Vrai": 0
+          },
+          "explanation":
+              "Coal is a fossil fuel and non-renewable energy source, unlike wind, solar, or hydroelectric power"
+        },
+        {
+          "intitule":
+              "Which energy source is best for areas with high wind speeds ?",
+          "reponse": "Wind turbines",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Hydroelectric dams",
+            "intitule1": "Wind turbines",
+            "intitule2": "Geothermal plants",
+            "intitule3": "Nuclear reactors",
+            "Vrai": 1
+          },
+          "explanation":
+              "Wind turbines convert wind energy into electricity, making them ideal for windy regions"
+        },
+        {
+          "intitule":
+              "What is a major disadvantage of using fossil fuels like coal ?",
+          "reponse": "They emit greenhouse gases that harm the environment",
+          "type": "text",
+          "proposition": {
+            "intitule0": "They are easy to transport",
+            "intitule1": "They emit greenhouse gases that harm the environment",
+            "intitule2": "They are renewable",
+            "intitule3": "They are cost-effective",
+            "Vrai": 1
+          },
+          "explanation":
+              "Fossil fuels, such as coal, release harmful gases like CO2, contributing to climate change and pollution"
+        },
+        {
+          "intitule":
+              "Hydroelectric power plants use what to generate electricity ?",
+          "reponse": "Moving water",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Sunlight",
+            "intitule1": "Wind",
+            "intitule2": "Moving water",
+            "intitule3": "Geothermal heat",
+            "Vrai": 2
+          },
+          "explanation":
+              "Hydroelectric plants harness the energy of moving water (such as rivers or dams) to generate electricity"
+        },
+        {
+          "intitule":
+              "Which of the following is a clean, renewable energy source ?",
+          "reponse": "Wind energy",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://www.uesaz.com/wp-content/uploads/blue-gas-flames.jpg",
+            "intitule1":
+                "https://taraenergy.com/wp-content/uploads/2020/11/forms-of-wind-energy-pros-and-cons-image.jpg",
+            "intitule2": "https://ychef.files.bbci.co.uk/1280x720/p0h8c1rz.jpg",
+            "intitule3":
+                "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/11267/production/_123574207_gettyimages-1161679863.jpg",
+            "Vrai": 1
+          },
+          "explanation":
+              "Wind energy is a renewable source that does not produce emissions, making it clean and sustainable"
+        },
+        {
+          "intitule":
+              "Which energy source is intermittent, meaning it depends on environmental conditions ?",
+          "reponse": "Solar energy",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://blog.feniceenergy.com/wp-content/uploads/2024/05/solar-energy-examples.jpg",
+            "intitule1":
+                "https://cdn.britannica.com/01/95901-050-49DFA760/Czech-Republic-operation-Temelin-Nuclear-Power-Plant-2003.jpg",
+            "intitule2":
+                "https://sciencenotes.org/wp-content/uploads/2021/04/Fossil-Fuel-Examples.png",
+            "intitule3":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Rn1zwkjQ1Bq9C38U5mPERWNXD6y4o72Rvw&s",
+            "Vrai": 0
+          },
+          "explanation":
+              "Solar energy is intermittent because it depends on sunlight, which is not always available (eg, at night or on cloudy days)"
+        },
+        {
+          "intitule":
+              "What is a key environmental advantage of using wind or solar power ?",
+          "reponse": "They produce no direct emissions",
+          "type": "text",
+          "proposition": {
+            "intitule0": "They are cheaper than all other energy sources",
+            "intitule1": "They produce no direct emissions",
+            "intitule2": "They can be stored easily",
+            "intitule3": "They require minimal infrastructure",
+            "Vrai": 1
+          },
+          "explanation":
+              "Wind and solar power generate electricity without emitting greenhouse gases or pollutants"
+        },
+        {
+          "intitule":
+              "Which of these is the most energy-efficient renewable source for generating electricity in coastal cities ?",
+          "reponse": "Hydroelectric power",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://blog.feniceenergy.com/wp-content/uploads/2024/05/solar-energy-examples.jpg",
+            "intitule1":
+                "https://blog.wika.fr/files/2019/09/centrale_idroelettrica.jpg",
+            "intitule2": "https://static.dw.com/image/59710463_605.jpg",
+            "intitule3":
+                "https://martech.com.vn/pictures/catalog/products/biomass/Biomass-la-gi.jpg",
+            "Vrai": 1
+          },
+          "explanation":
+              "Hydroelectric power is highly efficient and can generate large amounts of electricity, making it ideal for coastal areas with access to water"
+        },
+        {
+          "intitule":
+              "Which of the following best describes geothermal energy ?",
+          "reponse": "Heat from the Earth’s core used to generate electricity",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Energy from the wind",
+            "intitule1": "Energy from sunlight",
+            "intitule2":
+                "Heat from the Earth’s core used to generate electricity",
+            "intitule3": "Energy from burning fossil fuels",
+            "Vrai": 2
+          },
+          "explanation":
+              "Geothermal energy is generated by tapping into heat from beneath the Earth’s surface to produce electricity"
+        }
+      ]
+    },
+    "unit3" : {
+      "name": "Electrical Energy and Power",
+      "data": [
+        {
+          "intitule":
+              "What is the formula to calculate electrical energy consumption ?",
+          "reponse": "Energy = Power x Time",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Energy = Power + Time",
+            "intitule1": "Energy = Power x Time",
+            "intitule2": "Energy = Power / Time",
+            "intitule3": "Energy = Time / Power",
+            "Vrai": 1
+          },
+          "explanation":
+              "The formula for calculating electrical energy consumption is Energy = Power x Time, where power is in watts and time in hours"
+        },
+        {
+          "intitule": "What is the unit of measurement for electrical energy ?",
+          "reponse": "Joules",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Volts (V)",
+            "intitule1": "Joules (J)",
+            "intitule2": "Amps (A)",
+            "intitule3": "Watts (W)",
+            "Vrai": 1
+          },
+          "explanation":
+              "Electrical energy is measured in joules, which is a unit of work or energy"
+        },
+        {
+          "intitule": "What is the unit of electrical power ?",
+          "reponse": "Watts",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Joules (J)",
+            "intitule1": "Watts (W)",
+            "intitule2": "Ohms (w)  ",
+            "intitule3": "Amps (A)",
+            "Vrai": 1
+          },
+          "explanation":
+              "Power is measured in watts, which indicates the rate at which energy is consumed or produced"
+        },
+        {
+          "intitule":
+              "If a device consumes 100 watts for 5 hours, how much energy does it use ?",
+          "reponse": "500 Wh",
+          "type": "text",
+          "proposition": {
+            "intitule0": "500 Wh",
+            "intitule1": "1000 Wh",
+            "intitule2": "100 Wh",
+            "intitule3": "50 Wh",
+            "Vrai": 0
+          },
+          "explanation":
+              "The energy consumed is 100 x 5 = 500 Wh (watt-hours), representing the total energy used over 5 hours"
+        },
+        {
+          "intitule":
+              "What device can help reduce energy consumption in a building ?",
+          "reponse": "A dimmer switch",
+          "type": "text",
+          "proposition": {
+            "intitule0": "A dimmer switch",
+            "intitule1": "A more powerful heater",
+            "intitule2": "A bigger fan",
+            "intitule3": "A second refrigerator",
+            "Vrai": 0
+          },
+          "explanation":
+              "A dimmer switch controls the power level supplied to lighting, reducing energy consumption when less light is needed"
+        },
+        {
+          "intitule":
+              "Which appliance typically uses the most electricity in a household ?",
+          "reponse": "A 1000W space heater",
+          "type": "image",
+          "proposition": {
+            "intitule0":
+                "https://5.imimg.com/data5/TX/FY/MY-6026884/gls-bulb-500x500.jpg",
+            "intitule1":
+                "https://m.media-amazon.com/images/I/61UcNP8ZLwL._AC_UF894,1000_QL80_.jpg",
+            "intitule2":
+                "https://www.lg.com/be_fr/images/televiseurs/42lm3400/gallery/large02.jpg",
+            "intitule3":
+                "https://microless.com/cdn/products/9877e762705c8e5ea2b5b896cfed67ce-hi.jpg",
+            "Vrai": 1
+          },
+          "explanation":
+              "A 1000W heater consumes more energy per hour than lower-powered devices like a light bulb or television"
+        },
+        {
+          "intitule":
+              "What is one way to save energy when using a refrigerator?",
+          "reponse": "Open the door as little as possible",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Set it to the coldest possible temperature",
+            "intitule1": "Open the door as little as possible",
+            "intitule2": "Keep the door open to air it out",
+            "intitule3": "Plug in a second refrigerator for backup",
+            "Vrai": 1
+          },
+          "explanation":
+              "Minimizing how often the refrigerator door is opened helps maintain the internal temperature and reduces energy consumption"
+        },
+        {
+          "intitule":
+              "How can insulating your home affect energy consumption ?",
+          "reponse":
+              "It reduces the need for heating and cooling, saving energy",
+          "type": "text",
+          "proposition": {
+            "intitule0": "It increases energy use",
+            "intitule1":
+                "It reduces the need for heating and cooling, saving energy",
+            "intitule2": "It makes appliances consume more power",
+            "intitule3": "It has no effect on energy use",
+            "Vrai": 1
+          },
+          "explanation":
+              "Proper insulation reduces the need for heating and cooling, which in turn saves energy"
+        },
+        {
+          "intitule":
+              "Which of the following units measures the capacity of a battery ?",
+          "reponse": "Amp-hours (Ah)",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Amp-hours (Ah)",
+            "intitule1": "Volts (V)",
+            "intitule2": "Watts (W)",
+            "intitule3": "Joules (J)",
+            "Vrai": 0
+          },
+          "explanation":
+              "The capacity of a battery is measured in amp-hours, which represents the amount of charge a battery can deliver over time"
+        },
+        {
+          "intitule": "What is a smart meter used for ?",
+          "reponse": "Monitoring how much electricity is being used",
+          "type": "text",
+          "proposition": {
+            "intitule0": "Monitoring how much electricity is being used",
+            "intitule1": "Making appliances more efficient",
+            "intitule2": "Increasing the speed of electrical currents",
+            "intitule3": "Controlling voltage levels in your house",
+            "Vrai": 0
+          },
+          "explanation":
+              "A smart meter helps monitor energy consumption, providing real-time data on how much electricity is being used, which helps in managing energy efficiently"
+        }
+      ]
+    },
+  "unit4" : {"name": "Nasa's Data",
+      "data":[
+    {
+      "intitule": "How can NASA’s Earth observation data help in identifying optimal locations for renewable energy sources like solar power ?",
+      "reponse": "By providing data on cloud cover and solar irradiance patterns",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By analyzing sunspot activity on the solar surface",
+        "intitule1": "By providing data on cloud cover and solar irradiance patterns",
+        "intitule2": "By measuring seismic activity on Earth’s surface",
+        "intitule3": "By tracking human energy consumption in cities",
+        "Vrai": 1
+      },
+      "explanation": "NASA's satellite data on cloud cover, solar irradiance, and weather patterns help identify regions with the most consistent and strong solar energy potential, making it ideal for solar farm placement"
+    },
+    {
+      "intitule": "Which type of NASA Earth observation data is most useful for assessing wind energy potential ?",
+      "reponse": "Atmospheric wind speed data from satellites like CALIPSO and MODIS",
+      "type": "text",
+      "proposition": {
+        "intitule0": "Soil moisture data",
+        "intitule1": "Atmospheric wind speed data from satellites like CALIPSO and MODIS",
+        "intitule2": "Ocean salinity data",
+        "intitule3": "Aerosol concentration data",
+        "Vrai": 1
+      },
+      "explanation": "Satellites like CALIPSO and MODIS provide important atmospheric data, including wind speed at various altitudes, which is crucial for determining the feasibility of wind energy projects"
+    },
+    {
+      "intitule": "How can NASA’s satellite data assist in tracking the impact of large-scale renewable energy projects on the environment ?",
+      "reponse": "By tracking greenhouse gas emissions in real time",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By tracking greenhouse gas emissions in real time",
+        "intitule1": "By predicting volcanic activity",
+        "intitule2": "By measuring the productivity of crops",
+        "intitule3": "By detecting underwater tectonic shifts",
+        "Vrai": 0
+      },
+      "explanation": "NASA’s satellites, such as OCO-2, monitor greenhouse gas concentrations, enabling scientists to assess how renewable energy projects, such as wind or solar farms, are reducing emissions and contributing to cleaner air"
+    },
+    {
+      "intitule": "What role does NASA’s data play in optimizing hydropower potential across river basins ?",
+      "reponse": "By tracking precipitation, snowmelt, and river discharge levels using satellites like GRACE and GPM",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By providing water vapor concentrations in the atmosphere",
+        "intitule1": "By tracking precipitation, snowmelt, and river discharge levels using satellites like GRACE and GPM",
+        "intitule2": "By tracking seismic movements in dam areas",
+        "intitule3": "By measuring ocean tides and currents",
+        "Vrai": 1
+      },
+      "explanation": "NASA’s satellites, such as GRACE and GPM, help monitor precipitation patterns, snowmelt, and river discharges, providing critical data to optimize hydropower generation and ensure efficient water resource management"
+    },
+    {
+      "intitule": "How can NASA’s Earth observation data help governments implement energy policies to mitigate the effects of climate change ?",
+      "reponse": "By providing data on deforestation and land use changes related to energy infrastructure",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By tracking solar storms and cosmic radiation",
+        "intitule1": "By providing data on deforestation and land use changes related to energy infrastructure",
+        "intitule2": "By measuring ocean acidity",
+        "intitule3": "By tracking animal migration patterns",
+        "Vrai": 1
+      },
+      "explanation": "NASA’s Earth observation satellites provide data on deforestation, land use changes, and environmental degradation that may result from traditional energy sources This helps governments implement more sustainable energy policies and reduce environmental impact"
+    },
+    {
+      "intitule": "Which NASA satellite missions provide critical data for understanding air quality improvements related to renewable energy adoption ?",
+      "reponse": "OCO-2 and TROPOMI",
+      "type": "text",
+      "proposition": {
+        "intitule0": "OCO-2 and TROPOMI",
+        "intitule1": "GOES and Landsat",
+        "intitule2": "Juno and Voyager",
+        "intitule3": "Kepler and Hubble",
+        "Vrai": 0
+      },
+      "explanation": "NASA’s OCO-2 and TROPOMI missions provide high-resolution measurements of carbon dioxide and other air pollutants, helping track the improvements in air quality as countries shift from fossil fuels to cleaner energy sources"
+    },
+    {
+      "intitule": "How does NASA’s data contribute to improving energy efficiency in cities ?",
+      "reponse": "By providing thermal infrared data that shows heat emissions from urban areas",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By tracking the movement of tectonic plates",
+        "intitule1": "By providing thermal infrared data that shows heat emissions from urban areas",
+        "intitule2": "By monitoring glacier movements near urban centers",
+        "intitule3": "By measuring soil erosion rates in rural areas",
+        "Vrai": 1
+      },
+      "explanation": "NASA’s thermal infrared imaging data, from satellites like Landsat, can help cities identify areas of heat concentration due to inefficient energy use, such as poorly insulated buildings or excessive pavement, which aids in planning for energy-efficient urban development"
+    },
+    {
+      "intitule": "How can NASA’s satellite data support the development of offshore wind farms ?",
+      "reponse": "By measuring oceanic wind speeds and surface currents",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By measuring oceanic wind speeds and surface currents",
+        "intitule1": "By providing data on ocean floor topography",
+        "intitule2": "By tracking marine animal populations",
+        "intitule3": "By measuring chlorophyll levels in the ocean",
+        "Vrai": 0
+      },
+      "explanation": "NASA’s Earth observation satellites collect data on oceanic wind speeds, surface currents, and wave heights, which is critical for selecting the best locations for offshore wind farms and ensuring their efficiency and sustainability"
+    },
+    {
+      "intitule": "What kind of data from NASA can help determine the impact of climate change on energy infrastructure resilience ?",
+      "reponse": "Data on sea level rise, extreme weather events, and drought patterns",
+      "type": "text",
+      "proposition": {
+        "intitule0": "Data on sea level rise, extreme weather events, and drought patterns",
+        "intitule1": "Data on asteroid trajectories",
+        "intitule2": "Data on lunar surface temperatures",
+        "intitule3": "Data on solar flares",
+        "Vrai": 0
+      },
+      "explanation": "NASA’s data on sea level rise, extreme weather events, and droughts helps energy planners and policymakers evaluate the vulnerability of energy infrastructure and improve its resilience to climate change impacts"
+    },
+    {
+      "intitule": "How does NASA's Earth observation contribute to the planning of sustainable energy systems in developing countries ?",
+      "reponse": "By identifying areas prone to energy shortages using real-time satellite imagery",
+      "type": "text",
+      "proposition": {
+        "intitule0": "By identifying areas prone to energy shortages using real-time satellite imagery",
+        "intitule1": "By providing insights on deep space exploration",
+        "intitule2": "By tracking international energy trade",
+        "intitule3": "By offering data on fossil fuel reserves",
+        "Vrai": 0
+      },
+      "explanation": "NASA’s Earth observation systems can help developing countries identify areas with the greatest potential for renewable energy (solar, wind, hydropower) by providing real-time data on environmental conditions, such as solar irradiance, wind speeds, and water availability"
+    }
+  ]}
+}
